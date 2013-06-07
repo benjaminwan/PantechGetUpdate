@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PantechGetUpdate</string>
+    <string name="title_section1">Get Binx</string>
+    <string name="title_section2">Get Ota</string>
+    <string name="get_phone_model">Get Binx Info</string>
+    <string name="check_update">Check Update</string>
+    <string name="action_about">about</string>
+    <string name="action_quit">Quit</string>
+    <string name="item_Model">Model:</string>
+    <string name="item_Version">Version:</string>
+    <string name="item_FileName">FileName:</string>
+    <string name="item_FSVersion">FSVersion:</string>
+    <string name="item_NVVersion">NVVersion:</string>
+    <string name="item_Size">Size:</string>
+    <string name="item_CRC">CRC:</string>
+    <string name="txt_Model">Model</string>
+    <string name="txt_Version">Version</string>
+    <string name="Title_download_address">Download Address</string>
+    <string name="btn_text_copy">Copy</string>
+    <string name="about_app">For get the Pantech mobile phone update download address</string>
+    <string name="about_author">By Benjaminwan</string>
+    <string name="about_blog">http://blog.csdn.net/benjaminwan</string>
+    <string name="aboutUs_etouch_email">"支付宝:benjaminwan@163.com
+
+PayPal :benjaminwan@163.com"</string>
+
+    <string name="about_1">About</string>
+    <string name="about_2">My Blog</string>
+    <string name="about_3">donate</string>
+    <string name="about_4">Version</string>
+</resources>

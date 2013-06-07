@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trans">#00000000</color>
+    <color name="brown">#ff88542d</color>
+    <color name="orange">#ffff7700</color>
+    <color name="green">#ff84aa00</color>
+    <color name="blue">#ff4fa7d6</color>
+    <color name="red">#fff77f00</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="light_brown">#ffefead6</color>
+    <color name="trans_white">#e5ffffff</color>
+    <color name="trans_black">#22000000</color>
+    <color name="grey">#88000000</color>
+    <color name="light_grey">#ffcccccc</color>
+    <color name="light_grey_bg">#ffeeeeee</color>
+    <color name="huangli_line">#ffe6b58a</color>
+    <color name="weathertext">#ff000000</color>
+    <color name="festival_xitong">#ff00cccc</color>
+    <color name="festival_jinianri">#ffff7700</color>
+    <color name="festival_shengri">#ffff4dc4</color>
+    <color name="festival_gongzuo">#ff0099cc</color>
+    <color name="festival_shenghuo">#ff8fbf00</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PantechGetUpdate</string>
+    <string name="title_section1">获取Binx</string>
+    <string name="title_section2">获取Ota</string>
+    <string name="get_phone_model">获取Binx信息</string>
+    <string name="check_update">检查更新</string>
+    <string name="action_about">关于</string>
+    <string name="action_quit">退出</string>
+    <string name="item_Model">Model:</string>
+    <string name="item_Version">Version:</string>
+    <string name="item_FileName">FileName:</string>
+    <string name="item_FSVersion">FSVersion:</string>
+    <string name="item_NVVersion">NVVersion:</string>
+    <string name="item_Size">Size:</string>
+    <string name="item_CRC">CRC:</string>
+    <string name="txt_Model">型号</string>
+    <string name="txt_Version">版本</string>
+    <string name="Title_download_address">下载地址</string>
+    <string name="btn_text_copy">复制</string>
+    <string name="about_app">用于获取泛泰手机更新程序的下载地址</string>
+    <string name="about_author">By Benjaminwan</string>
+    <string name="about_blog">http://blog.csdn.net/benjaminwan</string>
+    <string name="aboutUs_etouch_email">"支付宝:benjaminwan@163.com
+
+PayPal :benjaminwan@163.com"</string>
+    <string name="about_1">关于</string>
+    <string name="about_2">我的博客</string>
+    <string name="about_3">捐赠</string>
+    <string name="about_4">版本</string>
+</resources>

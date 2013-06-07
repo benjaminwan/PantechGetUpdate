@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffffff"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffeeeeee"
+                android:padding="5.0dip"
+                android:text="@string/about_1"
+                android:textColor="#ff000000"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="#ffcccccc" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_launcher" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10.0dip"
+                android:text="@string/about_app"
+                android:textColor="#ff000000"
+                android:textSize="16.0sp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10.0dip"
+                android:gravity="center_horizontal"
+                android:text="@string/about_author"
+                android:textColor="#ff000000"
+                android:textSize="16.0sp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffeeeeee"
+                android:padding="5.0dip"
+                android:text="@string/about_2"
+                android:textColor="#ff000000"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="#ffcccccc" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10.0dip"
+                android:autoLink="web"
+                android:gravity="center_vertical"
+                android:text="@string/about_blog"
+                android:textColor="#ff000000"
+                android:textSize="16.0sp" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="#ffcccccc" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffeeeeee"
+                android:padding="5.0dip"
+                android:text="@string/about_3"
+                android:textColor="#ff000000"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="#ffcccccc" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10.0dip"
+                android:autoLink="email"
+                android:text="@string/aboutUs_etouch_email"
+                android:textColor="#ff000000"
+                android:textSize="16.0sp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffeeeeee"
+                android:padding="5.0dip"
+                android:text="@string/about_4"
+                android:textColor="#ff000000"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="1.0px"
+                android:background="#ffcccccc" />
+
+            <TextView
+                android:id="@+id/txtVersion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10.0dip"
+                android:gravity="center_horizontal"
+                android:text="version"
+                android:textColor="#ff000000"
+                android:textSize="16.0sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
